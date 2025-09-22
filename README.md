@@ -25,4 +25,4 @@ Universities aim to understand and improve their performance in global and natio
 ## 🚀 How to Run
 1. Clone this repo
    ```bash
-   git clone https://github.com/yourusername/university-rank-prediction-model.git
+   git clone https://github.com/dubemtony03-dev/Predictive-Analytics-for-University-Rankings.git
