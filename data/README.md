@@ -5,7 +5,7 @@ This repository includes a sample dataset (sample_data.csv) for demonstration pu
 To obtain the full dataset:
 
 - Visit the Guardian University Guide website
-![](https://www.theguardian.com/education/ng-interactive/2024/sep/07/the-guardian-university-guide-2025-the-rankings)
+![Guardian University Guide](https://www.theguardian.com/education/ng-interactive/2024/sep/07/the-guardian-university-guide-2025-the-rankings)
 
 - Navigate to the rankings table and download/export the data.
 
