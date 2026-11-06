@@ -1,6 +1,6 @@
-### Data Access
+## Data Access
 
-This repository includes a sample dataset (sample_data.csv) for demonstration purposes. The full dataset used in the dissertation, Guardian University Guide Rankings 2024–2025, is not provided here due to size/licensing restrictions.
+The full dataset used in the dissertation, Guardian University Guide Rankings 2024–2025, is not provided here due to size/licensing restrictions.
 
 To obtain the full dataset:
 
