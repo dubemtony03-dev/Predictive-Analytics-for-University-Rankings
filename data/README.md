@@ -6,7 +6,7 @@ To obtain the full dataset:
 
 - Visit the Guardian University Guide website
 ```
-![Guardian University Guide](https://www.theguardian.com/education/ng-interactive/2024/sep/07/the-guardian-university-guide-2025-the-rankings)
+!(https://www.theguardian.com/education/ng-interactive/2024/sep/07/the-guardian-university-guide-2025-the-rankings)
 ```
 - Navigate to the rankings table and download/export the data.
 
